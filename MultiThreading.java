@@ -1,5 +1,6 @@
 import java.util.*;
 //thread prg with prime no
+//this is sample
 class Prime extends Thread 
 {
     public void start()
